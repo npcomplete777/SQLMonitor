@@ -1,4 +1,4 @@
-package com.appdynamics.monitors.sql.config;
+package com.singularity.ee.agent.systemagent.monitors;
 
 import java.util.HashSet;
 import java.util.Set;
