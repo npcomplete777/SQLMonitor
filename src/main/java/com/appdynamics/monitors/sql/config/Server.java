@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.appdynamics.monitors.sql.config;
+package com.singularity.ee.agent.systemagent.monitors;
 
 
 public class Server {
