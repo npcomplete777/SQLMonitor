@@ -2,7 +2,8 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.appdynamics.monitors.sql;
+
+package com.singularity.ee.agent.systemagent.monitors;
 
 /**
  * A simple bean to hold name and value pair
